@@ -1,0 +1,43 @@
+body {
+	background-color: #d9fafa;
+	color: #333;
+	font-family: Arial, sans-serif;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	padding: 0;
+}
+
+hr{
+	border-width: 3px;
+}
+
+.Heading{
+	opacity: 0.5;
+	margin-bottom: 100px;
+	font-size: 20px;
+}
+
+.Info{
+	font-size: 24px;
+}
+
+table,td{
+	font-size: 24px;
+	border: 3px solid black;
+	border-collapse: collapse;
+	margin-bottom: 30px;
+}
+
+td{
+	padding-left: 10px;
+}
+
+table{
+	width:100%;
+}
+
+a{
+	font-size: 24px;
+}
